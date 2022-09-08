@@ -1,0 +1,156 @@
+.top-container {
+    background-color: antiquewhite;
+    position: relative;
+    padding-top: 50px;
+
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: normal;
+    color: #66BFBF;
+
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #11999E;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Orbitron', serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px
+}
+
+.profile-img {
+    height: 300px;
+    border-radius: 150px;
+}
+
+.skills-img {
+    height: 250px;
+    border-radius: 150px;
+      
+}
+
+.middle-container {
+    background-color: antiquewhite;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: antiquewhite;
+    padding-bottom: 1px;
+}
+
+hr {
+    border-style: none;
+    border-bottom: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+    color: grey;
+    margin: 100px auto;
+}
+
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Orbitron', serif;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 3; 
+}
+.bear{
+    float: right;
+    margin-left: 50px;
+}
+
+.brain{
+    float: left;
+    margin-right: 50px;
+}
+
+.bottom-container{
+    background-color: #FEF7DC;
+    padding: 50px 0 20px;
+}
+.contact-me{
+   padding-bottom: 50px;
+   
+}
+.fuhume{
+    
+    width: 40%;
+    margin:60px auto ;
+}
+.intro{
+    width: 40%;
+    margin:auto;
+
+}
+
+a{
+    margin: auto 50px;
+    text-decoration: none;
+    color: chocolate;
+    font-family:'Orbitron', serif;
+
+}
+
+a:hover{
+    color:darksalmon;
+}
+
+
+
